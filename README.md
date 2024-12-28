@@ -17,7 +17,6 @@ Create-webgpu-app is a library for generating web-based applications using WebGP
 1. [Preview](#preview)
 2. [Requirement](#equirement)
 3. [Run Locally](#run-locally)
-4. [Feedback](#feedback)
 5. [License](#License)
 
 ## Preview
@@ -74,10 +73,6 @@ or
 ```bash
 npm run dev
 ```
-
-## Feedback
-
-If you have any feedback, please feel free to contact us at zoubheir@gmail.com.
 
 ## License
 
